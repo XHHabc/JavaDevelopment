@@ -4,6 +4,6 @@
 数据结构-JavaDataStructure		
 
 小项目
-华容道迷宫小游戏-puzzlegame		\b
-小型文字学生管理系统-StudentManagementSystem		\b
-小型文字宠物商店-PetStore   \b
+华容道迷宫小游戏-puzzlegame		\n
+小型文字学生管理系统-StudentManagementSystem		
+小型文字宠物商店-PetStore   
